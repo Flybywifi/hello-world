@@ -1,6 +1,6 @@
 # hello-world
 
-Hi robots!
+Hi Robots!
 
-Flybywifi here and I am a novice programmer who is tryig to focus and find my way! 
+Flybywifi here and I am a novice programmer who is trying to focus and find my way! 
 I look forwad to spending time with you!
